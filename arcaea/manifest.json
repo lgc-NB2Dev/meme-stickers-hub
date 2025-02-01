@@ -1,5 +1,7 @@
 {
   "version": 1,
+  "name": "Arcaea",
+  "description": "Arcaea stickers",
   "default_config": {
     "commands": ["arc"],
     "disable_character_select": true

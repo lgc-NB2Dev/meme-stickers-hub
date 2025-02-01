@@ -164,6 +164,8 @@ async def transform_manifest(
     }
     return StickerPackManifest(
         version=base_manifest.version + 1 if base_manifest else 1,
+        name=base_manifest.name if base_manifest else "name",
+        description=base_manifest.description if base_manifest else "",
         external_fonts=base_manifest.external_fonts if base_manifest else [],
         default_config=(
             base_manifest.default_config if base_manifest else StickerPackConfig()

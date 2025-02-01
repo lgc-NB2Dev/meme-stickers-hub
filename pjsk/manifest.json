@@ -1,5 +1,7 @@
 {
   "version": 1,
+  "name": "Project Sekai",
+  "description": "Project Sekai stickers",
   "default_config": {
     "commands": ["pjsk"]
   },
