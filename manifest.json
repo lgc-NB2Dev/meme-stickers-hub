@@ -5,8 +5,7 @@
       "type": "github",
       "owner": "lgc-NB2Dev",
       "repo": "meme-stickers-hub",
-      "branch": "main",
-      "path": "pjsk/manifest.json"
+      "path": "pjsk"
     }
   },
   {
@@ -15,8 +14,7 @@
       "type": "github",
       "owner": "lgc-NB2Dev",
       "repo": "meme-stickers-hub",
-      "branch": "main",
-      "path": "arcaea/manifest.json"
+      "path": "arcaea"
     }
   }
 ]
