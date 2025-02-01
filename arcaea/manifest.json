@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "default_config": {
+    "commands": ["arc"],
+    "disable_character_select": true
+  },
+  "default_sticker_params": {
+    "width": 296,
+    "height": 256,
+    "text_align": "center",
+    "stroke_width_factor": 0.23684210526315788,
+    "font_style": "normal",
+    "font_families": []
+  },
+  "characters": {
+    "Aichan": [
+      {
+        "base_image": "Aichan/aichan.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [205, 180, 232, 255],
+        "stroke_color": [162, 143, 182, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Ayu": [
+      {
+        "base_image": "Ayu/ayu.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [59, 234, 223, 255],
+        "stroke_color": [48, 187, 178, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Eto": [
+      {
+        "base_image": "Eto/eto.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [121, 207, 232, 255],
+        "stroke_color": [11, 142, 183, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Hikari": [
+      {
+        "base_image": "Hikari/hikari.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 231, 181, 255],
+        "stroke_color": [239, 125, 4, 255],
+        "font_size": 42.0
+      },
+      {
+        "base_image": "Hikari/hikari2.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 231, 181, 255],
+        "stroke_color": [239, 125, 4, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Ilith": [
+      {
+        "base_image": "Ilith/ilith.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 129, 148, 255],
+        "stroke_color": [198, 22, 50, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Insight": [
+      {
+        "base_image": "Insight/insight.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [201, 203, 234, 255],
+        "stroke_color": [168, 169, 195, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Kanae": [
+      {
+        "base_image": "Kanae/kanae.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 208, 173, 255],
+        "stroke_color": [255, 184, 127, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Kou": [
+      {
+        "base_image": "Kou/kou.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 213, 213, 255],
+        "stroke_color": [240, 79, 135, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Lagrange": [
+      {
+        "base_image": "Lagrange/lagrange.png",
+        "text": "BRB",
+        "text_x": 98.0,
+        "text_y": 66.0,
+        "text_rotate_degrees": -22.918311805232932,
+        "text_color": [187, 215, 250, 255],
+        "stroke_color": [76, 140, 221, 255],
+        "font_size": 43.0
+      }
+    ],
+    "Lethe": [
+      {
+        "base_image": "Lethe/lethe.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [246, 211, 194, 255],
+        "stroke_color": [227, 186, 167, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Luna": [
+      {
+        "base_image": "Luna/luna.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [192, 158, 221, 255],
+        "stroke_color": [119, 67, 163, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Maya": [
+      {
+        "base_image": "Maya/maya.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [241, 222, 206, 255],
+        "stroke_color": [244, 207, 183, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Nami": [
+      {
+        "base_image": "Nami/nami.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [249, 194, 203, 255],
+        "stroke_color": [246, 47, 81, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Saya": [
+      {
+        "base_image": "Saya/saya.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [128, 232, 213, 255],
+        "stroke_color": [50, 159, 140, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Shirabe": [
+      {
+        "base_image": "Shirabe/shirabe.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [229, 97, 109, 255],
+        "stroke_color": [151, 65, 73, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Shirahime": [
+      {
+        "base_image": "Shirahime/shirahime.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [195, 213, 255, 255],
+        "stroke_color": [101, 122, 231, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Tairitsu": [
+      {
+        "base_image": "Tairitsu/tairitsu.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [128, 232, 213, 255],
+        "stroke_color": [50, 159, 140, 255],
+        "font_size": 42.0
+      },
+      {
+        "base_image": "Tairitsu/tairitsu2.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [128, 232, 213, 255],
+        "stroke_color": [50, 159, 140, 255],
+        "font_size": 42.0
+      },
+      {
+        "base_image": "Tairitsu/tairitsu3.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [128, 232, 213, 255],
+        "stroke_color": [50, 159, 140, 255],
+        "font_size": 42.0
+      }
+    ],
+    "Vita": [
+      {
+        "base_image": "Vita/vita.png",
+        "text": "OK!",
+        "text_x": 148.0,
+        "text_y": 65.0,
+        "text_rotate_degrees": -8.594366926962348,
+        "text_color": [245, 129, 148, 255],
+        "stroke_color": [200, 28, 56, 255],
+        "font_size": 42.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pjsk",
+    "description": "Sekai Stickers",
+    "manifest_url": "https://raw.githubusercontent.com/lgc-NB2Dev/meme-stickers-hub/refs/heads/main/pjsk/manifest.json"
+  },
+  {
+    "name": "arcaea",
+    "description": "Arcaea Stickers",
+    "manifest_url": "https://raw.githubusercontent.com/lgc-NB2Dev/meme-stickers-hub/refs/heads/main/arcaea/manifest.json"
+  }
+]

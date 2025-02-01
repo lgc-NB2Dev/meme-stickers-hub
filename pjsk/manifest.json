@@ -1,0 +1,3300 @@
+{
+  "version": 1,
+  "default_config": {
+    "commands": ["pjsk"]
+  },
+  "default_sticker_params": {
+    "width": 296,
+    "height": 256,
+    "text_align": "center",
+    "stroke_color": [255, 255, 255, 255],
+    "stroke_width_factor": 0.23684210526315788,
+    "font_style": "normal",
+    "font_families": []
+  },
+  "characters": {
+    "Airi": [
+      {
+        "base_image": "Airi/Airi_01.png",
+        "text": "keep up",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_02.png",
+        "text": "nice to meet ya",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": 0.0,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 28.0
+      },
+      {
+        "base_image": "Airi/Airi_03.png",
+        "text": "keep at it!",
+        "text_x": 140.0,
+        "text_y": 79.0,
+        "text_rotate_degrees": 11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Airi/Airi_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [251, 138, 172, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Akito": [
+      {
+        "base_image": "Akito/Akito_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Akito/Akito_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 119, 34, 255],
+        "font_size": 47.0
+      }
+    ],
+    "An": [
+      {
+        "base_image": "An/An_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "An/An_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 186, 220, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Emu": [
+      {
+        "base_image": "Emu/Emu_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_13.png",
+        "text": "Wonderhoy!",
+        "text_x": 148.0,
+        "text_y": 70.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 38.0
+      },
+      {
+        "base_image": "Emu/Emu_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Emu/Emu_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 187, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Ena": [
+      {
+        "base_image": "Ena/Ena_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ena/Ena_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [177, 143, 108, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Haruka": [
+      {
+        "base_image": "Haruka/Haruka_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Haruka/Haruka_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [100, 149, 240, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Honami": [
+      {
+        "base_image": "Honami/Honami_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Honami/Honami_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 102, 102, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Ichika": [
+      {
+        "base_image": "Ichika/Ichika_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Ichika/Ichika_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 170, 238, 255],
+        "font_size": 47.0
+      }
+    ],
+    "KAITO": [
+      {
+        "base_image": "KAITO/KAITO_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "KAITO/KAITO_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 102, 204, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Kanade": [
+      {
+        "base_image": "Kanade/Kanade_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kanade/Kanade_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 102, 136, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Kohane": [
+      {
+        "base_image": "Kohane/Kohane_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Kohane/Kohane_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [255, 102, 153, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Len": [
+      {
+        "base_image": "Len/Len_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Len/Len_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [211, 189, 0, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Luka": [
+      {
+        "base_image": "Luka/Luka_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Luka/Luka_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [248, 140, 167, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Mafuyu": [
+      {
+        "base_image": "Mafuyu/Mafuyu_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mafuyu/Mafuyu_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [113, 113, 175, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Meiko": [
+      {
+        "base_image": "Meiko/Meiko_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Meiko/Meiko_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [228, 72, 95, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Miku": [
+      {
+        "base_image": "Miku/Miku_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Miku/Miku_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [51, 204, 187, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Minori": [
+      {
+        "base_image": "Minori/Minori_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Minori/Minori_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [243, 158, 125, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Mizuki": [
+      {
+        "base_image": "Mizuki/Mizuki_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Mizuki/Mizuki_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [202, 141, 182, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Nene": [
+      {
+        "base_image": "Nene/Nene_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Nene/Nene_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [25, 205, 148, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Rin": [
+      {
+        "base_image": "Rin/Rin_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rin/Rin_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [232, 165, 5, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Rui": [
+      {
+        "base_image": "Rui/Rui_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Rui/Rui_19.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [187, 136, 238, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Saki": [
+      {
+        "base_image": "Saki/Saki_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Saki/Saki_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [245, 179, 3, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Shiho": [
+      {
+        "base_image": "Shiho/Shiho_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shiho/Shiho_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [160, 193, 11, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Shizuku": [
+      {
+        "base_image": "Shizuku/Shizuku_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Shizuku/Shizuku_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [92, 208, 185, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Touya": [
+      {
+        "base_image": "Touya/Touya_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Touya/Touya_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [0, 119, 221, 255],
+        "font_size": 47.0
+      }
+    ],
+    "Tsukasa": [
+      {
+        "base_image": "Tsukasa/Tsukasa_01.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_02.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_03.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_04.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_06.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_07.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_08.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_09.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_11.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_12.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_13.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_14.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_16.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_17.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      },
+      {
+        "base_image": "Tsukasa/Tsukasa_18.png",
+        "text": "something",
+        "text_x": 148.0,
+        "text_y": 58.0,
+        "text_rotate_degrees": -11.459155902616466,
+        "text_color": [240, 154, 4, 255],
+        "font_size": 47.0
+      }
+    ]
+  }
+}
