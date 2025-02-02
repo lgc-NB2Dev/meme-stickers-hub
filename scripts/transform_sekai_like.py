@@ -21,9 +21,9 @@ from nonebot_plugin_meme_stickers.models import (
     StickerPackManifest,
     StickerParamsOptional,
 )
+from nonebot_plugin_meme_stickers.utils import request_retry
 from pydantic import BaseModel
 from rich.progress import Progress
-from tenacity import retry, stop_after_attempt, wait_fixed
 from yarl import URL
 
 
@@ -74,6 +74,9 @@ def to_local_path(char: Character) -> str:
     return f"{normalize_character_name(char.character)}/{URL(char.img).name}"
 
 
+fetch_sem = asyncio.Semaphore(8)
+
+
 async def prepare_resources(
     chars: Characters,
     res_base_url: URL,
@@ -82,10 +85,8 @@ async def prepare_resources(
 ) -> ChecksumDict:
     """return map of file path and sha256 hashes"""
 
-    sem = asyncio.Semaphore(8)
-
-    @with_semaphore(sem)
-    @retry(stop=stop_after_attempt(3), wait=wait_fixed(0.5))
+    @with_semaphore(fetch_sem)
+    @request_retry()
     async def download_task(cli: AsyncClient, char: Character) -> tuple[str, str]:
         """return sha256"""
         url = res_base_url / char.img
@@ -207,13 +208,14 @@ async def transform_sekai_like(
         chars = type_validate_json(
             Characters,
             (
-                await retry(
-                    stop=stop_after_attempt(3),
-                    wait=wait_fixed(0.5),
-                )(cli.get)(characters_json_url)
-            )
-            .raise_for_status()
-            .text,
+                (
+                    await with_semaphore(fetch_sem)(
+                        request_retry()(cli.get),
+                    )(characters_json_url)
+                )
+                .raise_for_status()
+                .text
+            ),
         )
     chars_got_callback(chars)
 

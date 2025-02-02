@@ -1,19 +1,21 @@
 [
   {
     "slug": "pjsk",
-    "manifest_source": {
+    "source": {
       "type": "github",
       "owner": "lgc-NB2Dev",
       "repo": "meme-stickers-hub",
+      "branch": "main",
       "path": "pjsk"
     }
   },
   {
     "slug": "arcaea",
-    "manifest_source": {
+    "source": {
       "type": "github",
       "owner": "lgc-NB2Dev",
       "repo": "meme-stickers-hub",
+      "branch": "main",
       "path": "arcaea"
     }
   }
