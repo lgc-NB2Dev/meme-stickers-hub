@@ -1,5 +1,4 @@
 import asyncio
-import hashlib
 import json
 import math
 import sys
@@ -21,6 +20,7 @@ from nonebot_plugin_meme_stickers.models import (
     StickerPackManifest,
     StickerParamsOptional,
 )
+from nonebot_plugin_meme_stickers.sticker_pack import calc_checksum
 from nonebot_plugin_meme_stickers.utils import request_retry
 from pydantic import BaseModel
 from rich.progress import Progress
@@ -88,21 +88,21 @@ async def prepare_resources(
     @with_semaphore(fetch_sem)
     @request_retry()
     async def download_task(cli: AsyncClient, char: Character) -> tuple[str, str]:
-        """return sha256"""
+        """return checksum"""
         url = res_base_url / char.img
         async with cli.stream("GET", str(url)) as resp:
             resp.raise_for_status()
             content = await resp.aread()
 
-        sha256 = hashlib.sha256(content).hexdigest()
+        checksum = calc_checksum(content)
 
         relative_path = to_local_path(char)
         file_path = download_path / to_local_path(char)
         file_path.parent.mkdir(parents=True, exist_ok=True)
         file_path.write_bytes(content)
 
-        finish_callback(relative_path, sha256)
-        return relative_path, sha256
+        finish_callback(relative_path, checksum)
+        return relative_path, checksum
 
     async with AsyncClient() as cli:
         result = await asyncio.gather(*(download_task(cli, c) for c in chars))
