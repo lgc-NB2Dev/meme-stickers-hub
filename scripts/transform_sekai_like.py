@@ -21,7 +21,7 @@ from nonebot_plugin_meme_stickers.models import (
     StickerParamsOptional,
 )
 from nonebot_plugin_meme_stickers.sticker_pack import calc_checksum
-from nonebot_plugin_meme_stickers.utils import request_retry
+from nonebot_plugin_meme_stickers.utils import op_retry
 from pydantic import BaseModel
 from rich.progress import Progress
 from yarl import URL
@@ -86,7 +86,7 @@ async def prepare_resources(
     """return map of file path and sha256 hashes"""
 
     @with_semaphore(fetch_sem)
-    @request_retry()
+    @op_retry()
     async def download_task(cli: AsyncClient, char: Character) -> tuple[str, str]:
         """return checksum"""
         url = res_base_url / char.img
@@ -210,7 +210,7 @@ async def transform_sekai_like(
             (
                 (
                     await with_semaphore(fetch_sem)(
-                        request_retry()(cli.get),
+                        op_retry()(cli.get),
                     )(characters_json_url)
                 )
                 .raise_for_status()
