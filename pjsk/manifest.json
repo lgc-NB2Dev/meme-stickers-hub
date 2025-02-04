@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "name": "Project Sekai",
   "description": "Project Sekai stickers",
   "default_config": {
@@ -14,9 +14,11 @@
     "font_style": "normal",
     "font_families": []
   },
-  "characters": {
-    "Airi": [
-      {
+  "stickers": [
+    {
+      "name": "Airi 01",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_01.png",
         "text": "keep up",
         "text_x": 148.0,
@@ -24,8 +26,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 02",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_02.png",
         "text": "nice to meet ya",
         "text_x": 148.0,
@@ -33,8 +39,12 @@
         "text_rotate_degrees": 0.0,
         "text_color": [251, 138, 172, 255],
         "font_size": 28.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 03",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_03.png",
         "text": "keep at it!",
         "text_x": 140.0,
@@ -42,8 +52,12 @@
         "text_rotate_degrees": 11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 04",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -51,8 +65,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 06",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -60,8 +78,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 07",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -69,8 +91,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 08",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -78,8 +104,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 09",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -87,8 +117,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 11",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -96,8 +130,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 12",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -105,8 +143,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 13",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -114,8 +156,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 14",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -123,8 +169,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Airi 16",
+      "category": "Airi",
+      "params": {
         "base_image": "Airi/Airi_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -133,9 +183,11 @@
         "text_color": [251, 138, 172, 255],
         "font_size": 47.0
       }
-    ],
-    "Akito": [
-      {
+    },
+    {
+      "name": "Akito 01",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -143,8 +195,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 02",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -152,8 +208,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 03",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -161,8 +221,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 04",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -170,8 +234,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 06",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -179,8 +247,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 07",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -188,8 +260,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 08",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -197,8 +273,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 09",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -206,8 +286,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 11",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -215,8 +299,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 12",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -224,8 +312,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 13",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -233,8 +325,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 14",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -242,8 +338,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Akito 16",
+      "category": "Akito",
+      "params": {
         "base_image": "Akito/Akito_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -252,9 +352,11 @@
         "text_color": [255, 119, 34, 255],
         "font_size": 47.0
       }
-    ],
-    "An": [
-      {
+    },
+    {
+      "name": "An 01",
+      "category": "An",
+      "params": {
         "base_image": "An/An_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -262,8 +364,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 02",
+      "category": "An",
+      "params": {
         "base_image": "An/An_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -271,8 +377,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 03",
+      "category": "An",
+      "params": {
         "base_image": "An/An_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -280,8 +390,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 04",
+      "category": "An",
+      "params": {
         "base_image": "An/An_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -289,8 +403,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 06",
+      "category": "An",
+      "params": {
         "base_image": "An/An_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -298,8 +416,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 07",
+      "category": "An",
+      "params": {
         "base_image": "An/An_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -307,8 +429,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 08",
+      "category": "An",
+      "params": {
         "base_image": "An/An_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -316,8 +442,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 09",
+      "category": "An",
+      "params": {
         "base_image": "An/An_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -325,8 +455,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 11",
+      "category": "An",
+      "params": {
         "base_image": "An/An_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -334,8 +468,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 12",
+      "category": "An",
+      "params": {
         "base_image": "An/An_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -343,8 +481,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 13",
+      "category": "An",
+      "params": {
         "base_image": "An/An_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -352,8 +494,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 14",
+      "category": "An",
+      "params": {
         "base_image": "An/An_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -361,8 +507,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "An 16",
+      "category": "An",
+      "params": {
         "base_image": "An/An_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -371,9 +521,11 @@
         "text_color": [0, 186, 220, 255],
         "font_size": 47.0
       }
-    ],
-    "Emu": [
-      {
+    },
+    {
+      "name": "Emu 01",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -381,8 +533,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 02",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -390,8 +546,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 03",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -399,8 +559,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 04",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -408,8 +572,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 06",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -417,8 +585,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 07",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -426,8 +598,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 08",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -435,8 +611,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 09",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -444,8 +624,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 11",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -453,8 +637,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 12",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -462,8 +650,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 13",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_13.png",
         "text": "Wonderhoy!",
         "text_x": 148.0,
@@ -471,8 +663,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 38.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 14",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -480,8 +676,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Emu 16",
+      "category": "Emu",
+      "params": {
         "base_image": "Emu/Emu_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -490,9 +690,11 @@
         "text_color": [255, 102, 187, 255],
         "font_size": 47.0
       }
-    ],
-    "Ena": [
-      {
+    },
+    {
+      "name": "Ena 01",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -500,8 +702,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 02",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -509,8 +715,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 03",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -518,8 +728,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 04",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -527,8 +741,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 06",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -536,8 +754,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 07",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -545,8 +767,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 08",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -554,8 +780,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 09",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -563,8 +793,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 11",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -572,8 +806,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 12",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -581,8 +819,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 13",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -590,8 +832,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 14",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -599,8 +845,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ena 16",
+      "category": "Ena",
+      "params": {
         "base_image": "Ena/Ena_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -609,9 +859,11 @@
         "text_color": [177, 143, 108, 255],
         "font_size": 47.0
       }
-    ],
-    "Haruka": [
-      {
+    },
+    {
+      "name": "Haruka 01",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -619,8 +871,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 02",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -628,8 +884,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 03",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -637,8 +897,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 04",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -646,8 +910,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 06",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -655,8 +923,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 07",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -664,8 +936,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 08",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -673,8 +949,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 09",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -682,8 +962,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 11",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -691,8 +975,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 12",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -700,8 +988,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 13",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -709,8 +1001,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 14",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -718,8 +1014,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Haruka 16",
+      "category": "Haruka",
+      "params": {
         "base_image": "Haruka/Haruka_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -728,9 +1028,11 @@
         "text_color": [100, 149, 240, 255],
         "font_size": 47.0
       }
-    ],
-    "Honami": [
-      {
+    },
+    {
+      "name": "Honami 01",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -738,8 +1040,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 02",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -747,8 +1053,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 03",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -756,8 +1066,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 04",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -765,8 +1079,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 06",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -774,8 +1092,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 07",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -783,8 +1105,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 08",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -792,8 +1118,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 09",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -801,8 +1131,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 11",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -810,8 +1144,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 12",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -819,8 +1157,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 13",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -828,8 +1170,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 14",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -837,8 +1183,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 16",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -846,8 +1196,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 17",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -855,8 +1209,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Honami 18",
+      "category": "Honami",
+      "params": {
         "base_image": "Honami/Honami_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -865,9 +1223,11 @@
         "text_color": [248, 102, 102, 255],
         "font_size": 47.0
       }
-    ],
-    "Ichika": [
-      {
+    },
+    {
+      "name": "Ichika 01",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -875,8 +1235,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 02",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -884,8 +1248,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 03",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -893,8 +1261,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 04",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -902,8 +1274,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 06",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -911,8 +1287,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 07",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -920,8 +1300,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 08",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -929,8 +1313,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 09",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -938,8 +1326,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 11",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -947,8 +1339,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 12",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -956,8 +1352,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 13",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -965,8 +1365,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 14",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -974,8 +1378,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 16",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -983,8 +1391,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 17",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -992,8 +1404,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Ichika 18",
+      "category": "Ichika",
+      "params": {
         "base_image": "Ichika/Ichika_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -1002,9 +1418,11 @@
         "text_color": [51, 170, 238, 255],
         "font_size": 47.0
       }
-    ],
-    "KAITO": [
-      {
+    },
+    {
+      "name": "KAITO 01",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1012,8 +1430,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 02",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1021,8 +1443,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 03",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1030,8 +1456,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 04",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1039,8 +1469,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 06",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1048,8 +1482,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 07",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1057,8 +1495,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 08",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1066,8 +1508,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 09",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1075,8 +1521,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 11",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1084,8 +1534,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 12",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1093,8 +1547,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 13",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1102,8 +1560,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 14",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1111,8 +1573,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "KAITO 16",
+      "category": "KAITO",
+      "params": {
         "base_image": "KAITO/KAITO_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1121,9 +1587,11 @@
         "text_color": [51, 102, 204, 255],
         "font_size": 47.0
       }
-    ],
-    "Kanade": [
-      {
+    },
+    {
+      "name": "Kanade 01",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1131,8 +1599,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 02",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1140,8 +1612,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 03",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1149,8 +1625,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 04",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1158,8 +1638,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 06",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1167,8 +1651,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 07",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1176,8 +1664,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 08",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1185,8 +1677,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 09",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1194,8 +1690,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 11",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1203,8 +1703,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 12",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1212,8 +1716,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 13",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1221,8 +1729,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 14",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1230,8 +1742,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 16",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1239,8 +1755,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kanade 17",
+      "category": "Kanade",
+      "params": {
         "base_image": "Kanade/Kanade_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -1249,9 +1769,11 @@
         "text_color": [187, 102, 136, 255],
         "font_size": 47.0
       }
-    ],
-    "Kohane": [
-      {
+    },
+    {
+      "name": "Kohane 01",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1259,8 +1781,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 02",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1268,8 +1794,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 03",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1277,8 +1807,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 04",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1286,8 +1820,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 06",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1295,8 +1833,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 07",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1304,8 +1846,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 08",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1313,8 +1859,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 09",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1322,8 +1872,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 11",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1331,8 +1885,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 12",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1340,8 +1898,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 13",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1349,8 +1911,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 14",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1358,8 +1924,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 16",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1367,8 +1937,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Kohane 17",
+      "category": "Kohane",
+      "params": {
         "base_image": "Kohane/Kohane_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -1377,9 +1951,11 @@
         "text_color": [255, 102, 153, 255],
         "font_size": 47.0
       }
-    ],
-    "Len": [
-      {
+    },
+    {
+      "name": "Len 01",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1387,8 +1963,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 02",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1396,8 +1976,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 03",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1405,8 +1989,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 04",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1414,8 +2002,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 06",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1423,8 +2015,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 07",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1432,8 +2028,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 08",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1441,8 +2041,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 09",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1450,8 +2054,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 11",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1459,8 +2067,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 12",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1468,8 +2080,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 13",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1477,8 +2093,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 14",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1486,8 +2106,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 16",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1495,8 +2119,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Len 17",
+      "category": "Len",
+      "params": {
         "base_image": "Len/Len_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -1505,9 +2133,11 @@
         "text_color": [211, 189, 0, 255],
         "font_size": 47.0
       }
-    ],
-    "Luka": [
-      {
+    },
+    {
+      "name": "Luka 01",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1515,8 +2145,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 02",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1524,8 +2158,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 03",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1533,8 +2171,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 04",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1542,8 +2184,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 06",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1551,8 +2197,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 07",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1560,8 +2210,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 08",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1569,8 +2223,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 09",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1578,8 +2236,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 11",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1587,8 +2249,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 12",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1596,8 +2262,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 13",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1605,8 +2275,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 14",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1614,8 +2288,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Luka 16",
+      "category": "Luka",
+      "params": {
         "base_image": "Luka/Luka_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1624,9 +2302,11 @@
         "text_color": [248, 140, 167, 255],
         "font_size": 47.0
       }
-    ],
-    "Mafuyu": [
-      {
+    },
+    {
+      "name": "Mafuyu 01",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1634,8 +2314,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 02",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1643,8 +2327,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 03",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1652,8 +2340,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 04",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1661,8 +2353,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 06",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1670,8 +2366,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 07",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1679,8 +2379,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 08",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1688,8 +2392,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 09",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1697,8 +2405,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 11",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1706,8 +2418,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 12",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1715,8 +2431,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 13",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1724,8 +2444,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 14",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1733,8 +2457,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 16",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1742,8 +2470,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mafuyu 17",
+      "category": "Mafuyu",
+      "params": {
         "base_image": "Mafuyu/Mafuyu_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -1752,9 +2484,11 @@
         "text_color": [113, 113, 175, 255],
         "font_size": 47.0
       }
-    ],
-    "Meiko": [
-      {
+    },
+    {
+      "name": "Meiko 01",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1762,8 +2496,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 02",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1771,8 +2509,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 03",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1780,8 +2522,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 04",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1789,8 +2535,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 06",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1798,8 +2548,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 07",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1807,8 +2561,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 08",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1816,8 +2574,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 09",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1825,8 +2587,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 11",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1834,8 +2600,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 12",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1843,8 +2613,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 13",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1852,8 +2626,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 14",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1861,8 +2639,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Meiko 16",
+      "category": "Meiko",
+      "params": {
         "base_image": "Meiko/Meiko_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1871,9 +2653,11 @@
         "text_color": [228, 72, 95, 255],
         "font_size": 47.0
       }
-    ],
-    "Miku": [
-      {
+    },
+    {
+      "name": "Miku 01",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -1881,8 +2665,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 02",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -1890,8 +2678,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 03",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -1899,8 +2691,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 04",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -1908,8 +2704,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 06",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -1917,8 +2717,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 07",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -1926,8 +2730,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 08",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -1935,8 +2743,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 09",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -1944,8 +2756,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 11",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -1953,8 +2769,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 12",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -1962,8 +2782,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 13",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -1971,8 +2795,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 14",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -1980,8 +2808,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Miku 16",
+      "category": "Miku",
+      "params": {
         "base_image": "Miku/Miku_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -1990,9 +2822,11 @@
         "text_color": [51, 204, 187, 255],
         "font_size": 47.0
       }
-    ],
-    "Minori": [
-      {
+    },
+    {
+      "name": "Minori 01",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2000,8 +2834,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 02",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2009,8 +2847,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 03",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2018,8 +2860,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 04",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2027,8 +2873,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 06",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2036,8 +2886,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 07",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2045,8 +2899,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 08",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2054,8 +2912,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 09",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2063,8 +2925,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 11",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2072,8 +2938,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 12",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2081,8 +2951,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 13",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2090,8 +2964,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 14",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2099,8 +2977,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 16",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2108,8 +2990,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Minori 17",
+      "category": "Minori",
+      "params": {
         "base_image": "Minori/Minori_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -2118,9 +3004,11 @@
         "text_color": [243, 158, 125, 255],
         "font_size": 47.0
       }
-    ],
-    "Mizuki": [
-      {
+    },
+    {
+      "name": "Mizuki 01",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2128,8 +3016,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 02",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2137,8 +3029,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 03",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2146,8 +3042,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 04",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2155,8 +3055,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 06",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2164,8 +3068,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 07",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2173,8 +3081,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 08",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2182,8 +3094,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 09",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2191,8 +3107,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 11",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2200,8 +3120,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 12",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2209,8 +3133,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 13",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2218,8 +3146,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 14",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2227,8 +3159,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 16",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2236,8 +3172,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Mizuki 17",
+      "category": "Mizuki",
+      "params": {
         "base_image": "Mizuki/Mizuki_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -2246,9 +3186,11 @@
         "text_color": [202, 141, 182, 255],
         "font_size": 47.0
       }
-    ],
-    "Nene": [
-      {
+    },
+    {
+      "name": "Nene 01",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2256,8 +3198,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 02",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2265,8 +3211,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 03",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2274,8 +3224,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 04",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2283,8 +3237,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 06",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2292,8 +3250,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 07",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2301,8 +3263,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 08",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2310,8 +3276,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 09",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2319,8 +3289,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 11",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2328,8 +3302,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 12",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2337,8 +3315,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 13",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2346,8 +3328,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 14",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2355,8 +3341,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Nene 16",
+      "category": "Nene",
+      "params": {
         "base_image": "Nene/Nene_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2365,9 +3355,11 @@
         "text_color": [25, 205, 148, 255],
         "font_size": 47.0
       }
-    ],
-    "Rin": [
-      {
+    },
+    {
+      "name": "Rin 01",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2375,8 +3367,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 02",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2384,8 +3380,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 03",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2393,8 +3393,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 04",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2402,8 +3406,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 06",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2411,8 +3419,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 07",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2420,8 +3432,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 08",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2429,8 +3445,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 09",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2438,8 +3458,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 11",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2447,8 +3471,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 12",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2456,8 +3484,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 13",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2465,8 +3497,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 14",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2474,8 +3510,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rin 16",
+      "category": "Rin",
+      "params": {
         "base_image": "Rin/Rin_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2484,9 +3524,11 @@
         "text_color": [232, 165, 5, 255],
         "font_size": 47.0
       }
-    ],
-    "Rui": [
-      {
+    },
+    {
+      "name": "Rui 01",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2494,8 +3536,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 02",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2503,8 +3549,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 03",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2512,8 +3562,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 04",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2521,8 +3575,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 06",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2530,8 +3588,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 07",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2539,8 +3601,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 08",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2548,8 +3614,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 09",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2557,8 +3627,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 11",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2566,8 +3640,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 12",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2575,8 +3653,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 13",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2584,8 +3666,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 14",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2593,8 +3679,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 16",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2602,8 +3692,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 17",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -2611,8 +3705,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 18",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -2620,8 +3718,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Rui 19",
+      "category": "Rui",
+      "params": {
         "base_image": "Rui/Rui_19.png",
         "text": "something",
         "text_x": 148.0,
@@ -2630,9 +3732,11 @@
         "text_color": [187, 136, 238, 255],
         "font_size": 47.0
       }
-    ],
-    "Saki": [
-      {
+    },
+    {
+      "name": "Saki 01",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2640,8 +3744,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 02",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2649,8 +3757,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 03",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2658,8 +3770,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 04",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2667,8 +3783,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 06",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2676,8 +3796,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 07",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2685,8 +3809,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 08",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2694,8 +3822,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 09",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2703,8 +3835,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 11",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2712,8 +3848,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 12",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2721,8 +3861,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 13",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2730,8 +3874,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 14",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2739,8 +3887,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 16",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2748,8 +3900,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 17",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -2757,8 +3913,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Saki 18",
+      "category": "Saki",
+      "params": {
         "base_image": "Saki/Saki_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -2767,9 +3927,11 @@
         "text_color": [245, 179, 3, 255],
         "font_size": 47.0
       }
-    ],
-    "Shiho": [
-      {
+    },
+    {
+      "name": "Shiho 01",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2777,8 +3939,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 02",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2786,8 +3952,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 03",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2795,8 +3965,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 04",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2804,8 +3978,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 06",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2813,8 +3991,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 07",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2822,8 +4004,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 08",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2831,8 +4017,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 09",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2840,8 +4030,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 11",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2849,8 +4043,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 12",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2858,8 +4056,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 13",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -2867,8 +4069,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 14",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -2876,8 +4082,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 16",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -2885,8 +4095,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 17",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -2894,8 +4108,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shiho 18",
+      "category": "Shiho",
+      "params": {
         "base_image": "Shiho/Shiho_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -2904,9 +4122,11 @@
         "text_color": [160, 193, 11, 255],
         "font_size": 47.0
       }
-    ],
-    "Shizuku": [
-      {
+    },
+    {
+      "name": "Shizuku 01",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -2914,8 +4134,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 02",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -2923,8 +4147,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 03",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -2932,8 +4160,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 04",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -2941,8 +4173,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 06",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -2950,8 +4186,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 07",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -2959,8 +4199,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 08",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -2968,8 +4212,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 09",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -2977,8 +4225,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 11",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -2986,8 +4238,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 12",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -2995,8 +4251,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 13",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -3004,8 +4264,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 14",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -3013,8 +4277,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Shizuku 16",
+      "category": "Shizuku",
+      "params": {
         "base_image": "Shizuku/Shizuku_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -3023,9 +4291,11 @@
         "text_color": [92, 208, 185, 255],
         "font_size": 47.0
       }
-    ],
-    "Touya": [
-      {
+    },
+    {
+      "name": "Touya 01",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -3033,8 +4303,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 02",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -3042,8 +4316,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 03",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -3051,8 +4329,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 04",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -3060,8 +4342,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 06",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -3069,8 +4355,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 07",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -3078,8 +4368,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 08",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -3087,8 +4381,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 09",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -3096,8 +4394,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 11",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -3105,8 +4407,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 12",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -3114,8 +4420,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 13",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -3123,8 +4433,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 14",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -3132,8 +4446,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 16",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -3141,8 +4459,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 17",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -3150,8 +4472,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Touya 18",
+      "category": "Touya",
+      "params": {
         "base_image": "Touya/Touya_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -3160,9 +4486,11 @@
         "text_color": [0, 119, 221, 255],
         "font_size": 47.0
       }
-    ],
-    "Tsukasa": [
-      {
+    },
+    {
+      "name": "Tsukasa 01",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_01.png",
         "text": "something",
         "text_x": 148.0,
@@ -3170,8 +4498,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 02",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_02.png",
         "text": "something",
         "text_x": 148.0,
@@ -3179,8 +4511,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 03",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_03.png",
         "text": "something",
         "text_x": 148.0,
@@ -3188,8 +4524,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 04",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_04.png",
         "text": "something",
         "text_x": 148.0,
@@ -3197,8 +4537,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 06",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_06.png",
         "text": "something",
         "text_x": 148.0,
@@ -3206,8 +4550,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 07",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_07.png",
         "text": "something",
         "text_x": 148.0,
@@ -3215,8 +4563,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 08",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_08.png",
         "text": "something",
         "text_x": 148.0,
@@ -3224,8 +4576,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 09",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_09.png",
         "text": "something",
         "text_x": 148.0,
@@ -3233,8 +4589,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 11",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_11.png",
         "text": "something",
         "text_x": 148.0,
@@ -3242,8 +4602,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 12",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_12.png",
         "text": "something",
         "text_x": 148.0,
@@ -3251,8 +4615,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 13",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_13.png",
         "text": "something",
         "text_x": 148.0,
@@ -3260,8 +4628,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 14",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_14.png",
         "text": "something",
         "text_x": 148.0,
@@ -3269,8 +4641,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 16",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_16.png",
         "text": "something",
         "text_x": 148.0,
@@ -3278,8 +4654,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 17",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_17.png",
         "text": "something",
         "text_x": 148.0,
@@ -3287,8 +4667,12 @@
         "text_rotate_degrees": -11.459155902616466,
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
-      },
-      {
+      }
+    },
+    {
+      "name": "Tsukasa 18",
+      "category": "Tsukasa",
+      "params": {
         "base_image": "Tsukasa/Tsukasa_18.png",
         "text": "something",
         "text_x": 148.0,
@@ -3297,6 +4681,6 @@
         "text_color": [240, 154, 4, 255],
         "font_size": 47.0
       }
-    ]
-  }
+    }
+  ]
 }

@@ -16,6 +16,7 @@ from nonebot_plugin_meme_stickers.models import (
     MANIFEST_FILENAME,
     ChecksumDict,
     RGBAColorTuple,
+    StickerInfo,
     StickerPackConfig,
     StickerPackManifest,
     StickerParamsOptional,
@@ -136,33 +137,6 @@ async def transform_manifest(
     chars: Characters,
     base_manifest: Optional[StickerPackManifest] = None,
 ) -> StickerPackManifest:
-    character_names = sorted(
-        {normalize_character_name(char.character) for char in chars},
-    )
-    characters = {
-        char_name: [
-            StickerParamsOptional(
-                base_image=to_local_path(char),
-                text=char.default_text.text,
-                text_x=char.default_text.x,
-                text_y=char.default_text.y,
-                text_rotate_degrees=math.degrees(char.default_text.r / 10),
-                text_color=(
-                    web_hex_to_color_tuple(char.color)
-                    if isinstance(char, SekaiCharacter)
-                    else web_hex_to_color_tuple(char.fill_color)
-                ),
-                stroke_color=(
-                    web_hex_to_color_tuple(char.stroke_color)
-                    if isinstance(char, ArcaeaCharacter)
-                    else None
-                ),
-                font_size=char.default_text.s,
-            )
-            for char in (x for x in chars if x.character.lower() == char_name.lower())
-        ]
-        for char_name in character_names
-    }
     return StickerPackManifest(
         version=base_manifest.version + 1 if base_manifest else 1,
         name=base_manifest.name if base_manifest else "name",
@@ -186,7 +160,31 @@ async def transform_manifest(
                 stroke_width_factor=STROKE_FACTOR,
             )
         ),
-        characters=characters,
+        stickers=[
+            StickerInfo(
+                name=char.name,
+                category=normalize_character_name(char.character),
+                params=StickerParamsOptional(
+                    base_image=to_local_path(char),
+                    text=char.default_text.text,
+                    text_x=char.default_text.x,
+                    text_y=char.default_text.y,
+                    text_rotate_degrees=math.degrees(char.default_text.r / 10),
+                    text_color=(
+                        web_hex_to_color_tuple(char.color)
+                        if isinstance(char, SekaiCharacter)
+                        else web_hex_to_color_tuple(char.fill_color)
+                    ),
+                    stroke_color=(
+                        web_hex_to_color_tuple(char.stroke_color)
+                        if isinstance(char, ArcaeaCharacter)
+                        else None
+                    ),
+                    font_size=char.default_text.s,
+                ),
+            )
+            for char in chars
+        ],
     )
 
 
@@ -226,7 +224,7 @@ async def transform_sekai_like(
         target_path,
         finish_callback,
     )
-    checksum = dict(sorted(checksum.items()))
+    checksum = dict(sorted(checksum.items(), key=lambda x: x[0].split("/")))
 
     new_manifest = await transform_manifest(chars, original_manifest)
     manifest_path.write_text(
