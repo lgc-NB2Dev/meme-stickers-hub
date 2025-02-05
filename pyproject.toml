@@ -2,7 +2,7 @@
 name = "meme-stickers-hub"
 version = "0"
 authors = [{ name = "LgCookie", email = "lgc2333@126.com" }]
-dependencies = ["nonebot-plugin-meme-stickers>=0.1.0"]
+dependencies = ["nonebot-plugin-meme-stickers>=0.1.0", "rich>=13.9.4"]
 requires-python = ">=3.9"
 license = { text = "MIT" }
 
