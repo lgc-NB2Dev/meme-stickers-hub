@@ -12,7 +12,7 @@
     "stroke_color": [255, 255, 255, 255],
     "stroke_width_factor": 0.23684210526315788,
     "font_style": "normal",
-    "font_families": []
+    "font_families": ["YurukaFangTang"]
   },
   "external_fonts": [
     {
