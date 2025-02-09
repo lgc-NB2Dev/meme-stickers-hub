@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 1,
   "name": "Arcaea",
   "description": "Arcaea stickers",
   "default_config": {
@@ -14,6 +14,11 @@
     "font_style": "normal",
     "font_families": []
   },
+  "external_fonts": [
+    {
+      "path": "../_public/fonts/YurukaFangTang.ttf"
+    }
+  ],
   "stickers": [
     {
       "name": "Ayu",

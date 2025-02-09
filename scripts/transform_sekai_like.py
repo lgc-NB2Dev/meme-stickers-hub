@@ -16,7 +16,7 @@ from nonebot_plugin_meme_stickers.models import (
     MANIFEST_FILENAME,
     ChecksumDict,
     RGBAColorTuple,
-    StickerInfo,
+    StickerInfoOptionalParams,
     StickerPackConfig,
     StickerPackManifest,
     StickerParamsOptional,
@@ -161,7 +161,7 @@ async def transform_manifest(
             )
         ),
         stickers=[
-            StickerInfo(
+            StickerInfoOptionalParams(
                 name=char.name,
                 category=normalize_character_name(char.character),
                 params=StickerParamsOptional(
