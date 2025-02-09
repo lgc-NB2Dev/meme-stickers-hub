@@ -21,7 +21,10 @@ from nonebot_plugin_meme_stickers.models import (
     StickerPackManifest,
     StickerParamsOptional,
 )
-from nonebot_plugin_meme_stickers.sticker_pack import calc_checksum
+from nonebot_plugin_meme_stickers.sticker_pack import (
+    calc_checksum,
+    calc_checksum_from_file,
+)
 from nonebot_plugin_meme_stickers.utils import op_retry
 from pydantic import BaseModel
 from rich.progress import Progress
@@ -138,7 +141,11 @@ async def transform_manifest(
     base_manifest: Optional[StickerPackManifest] = None,
 ) -> StickerPackManifest:
     return StickerPackManifest(
-        version=base_manifest.version + 1 if base_manifest else 1,
+        version=(
+            base_manifest.version  # + 1
+            if base_manifest
+            else 1
+        ),
         name=base_manifest.name if base_manifest else "name",
         description=base_manifest.description if base_manifest else "",
         external_fonts=base_manifest.external_fonts if base_manifest else [],
@@ -224,6 +231,9 @@ async def transform_sekai_like(
         target_path,
         finish_callback,
     )
+    if original_manifest:
+        for f in original_manifest.external_fonts:
+            checksum[f.path] = calc_checksum_from_file(target_path / f.path)
     checksum = dict(sorted(checksum.items(), key=lambda x: x[0].split("/")))
 
     new_manifest = await transform_manifest(chars, original_manifest)

@@ -16,7 +16,7 @@
   },
   "external_fonts": [
     {
-      "path": "../_public/fonts/YurukaFangTang.ttf"
+      "path": "_external_fonts/YurukaFangTang.ttf"
     }
   ],
   "stickers": [
