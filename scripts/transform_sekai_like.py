@@ -9,7 +9,7 @@ from typing import Callable, Optional, TypeVar, Union
 from typing_extensions import ParamSpec, TypeAlias
 
 from cookit import with_semaphore
-from cookit.pyd import CamelAliasModel, type_dump_python, type_validate_json
+from cookit.pyd import CamelAliasModel, type_validate_json
 from httpx import AsyncClient
 from nonebot_plugin_meme_stickers.models import (
     CHECKSUM_FILENAME,
@@ -24,6 +24,7 @@ from nonebot_plugin_meme_stickers.models import (
 from nonebot_plugin_meme_stickers.sticker_pack import (
     calc_checksum,
     calc_checksum_from_file,
+    dump_readable_model,
 )
 from nonebot_plugin_meme_stickers.utils import op_retry
 from pydantic import BaseModel
@@ -238,14 +239,7 @@ async def transform_sekai_like(
 
     new_manifest = await transform_manifest(chars, original_manifest)
     manifest_path.write_text(
-        json.dumps(
-            type_dump_python(
-                new_manifest,
-                exclude_defaults=True,
-            ),
-            ensure_ascii=False,
-            indent=2,
-        ),
+        dump_readable_model(new_manifest, exclude_unset=True, exclude_defaults=True),
         "u8",
     )
 
