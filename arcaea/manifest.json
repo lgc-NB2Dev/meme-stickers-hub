@@ -13,6 +13,13 @@
     "font_style": "normal",
     "font_families": ["YurukaFangTang"]
   },
+  "sticker_grid": {
+    "disable_category_select": true,
+    "default_params": {
+      "padding": [304, 32, 32, 32],
+      "background": "pack_bg.webp"
+    }
+  },
   "external_fonts": [
     {
       "path": "_external_fonts/YurukaFangTang.ttf"
