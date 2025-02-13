@@ -14,6 +14,7 @@
     "font_style": "normal",
     "font_families": ["YurukaFangTang"]
   },
+  "sample_sticker": "Emu 13",
   "external_fonts": [
     {
       "path": "_external_fonts/YurukaFangTang.ttf"

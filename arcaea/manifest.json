@@ -20,6 +20,7 @@
       "background": "pack_bg.webp"
     }
   },
+  "sample_sticker": "Lagrange",
   "external_fonts": [
     {
       "path": "_external_fonts/YurukaFangTang.ttf"
