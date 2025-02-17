@@ -16,7 +16,7 @@
   "sticker_grid": {
     "disable_category_select": true,
     "default_params": {
-      "padding": [304, 32, 32, 32],
+      "padding": [304.0, 32.0, 32.0, 32.0],
       "background": "pack_bg.webp"
     }
   },

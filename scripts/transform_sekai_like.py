@@ -16,6 +16,7 @@ from nonebot_plugin_meme_stickers.models import (
     MANIFEST_FILENAME,
     ChecksumDict,
     RGBAColorTuple,
+    StickerGridSetting,
     StickerInfoOptionalParams,
     StickerPackConfig,
     StickerPackManifest,
@@ -79,18 +80,20 @@ def to_local_path(char: Character) -> str:
     return f"{normalize_character_name(char.character)}/{URL(char.img).name}"
 
 
-fetch_sem = asyncio.Semaphore(8)
+def create_sem() -> asyncio.Semaphore:
+    return asyncio.Semaphore(8)
 
 
 async def prepare_resources(
     chars: Characters,
     res_base_url: URL,
     download_path: Path,
+    sem: asyncio.Semaphore,
     finish_callback: ResDownloadFinishCallback,
 ) -> ChecksumDict:
     """return map of file path and sha256 hashes"""
 
-    @with_semaphore(fetch_sem)
+    @with_semaphore(sem)
     @op_retry()
     async def download_task(cli: AsyncClient, char: Character) -> tuple[str, str]:
         """return checksum"""
@@ -149,7 +152,6 @@ async def transform_manifest(
         ),
         name=base_manifest.name if base_manifest else "name",
         description=base_manifest.description if base_manifest else "",
-        external_fonts=base_manifest.external_fonts if base_manifest else [],
         default_config=(
             base_manifest.default_config if base_manifest else StickerPackConfig()
         ),
@@ -168,6 +170,11 @@ async def transform_manifest(
                 stroke_width_factor=STROKE_FACTOR,
             )
         ),
+        sticker_grid=(
+            base_manifest.sticker_grid if base_manifest else StickerGridSetting()
+        ),
+        sample_sticker=base_manifest.sample_sticker if base_manifest else None,
+        external_fonts=base_manifest.external_fonts if base_manifest else [],
         stickers=[
             StickerInfoOptionalParams(
                 name=char.name,
@@ -213,23 +220,17 @@ async def transform_sekai_like(
     async with AsyncClient() as cli:
         chars = type_validate_json(
             Characters,
-            (
-                (
-                    await with_semaphore(fetch_sem)(
-                        op_retry()(cli.get),
-                    )(characters_json_url)
-                )
-                .raise_for_status()
-                .text
-            ),
+            ((await op_retry()(cli.get)(characters_json_url)).raise_for_status().text),
         )
     chars_got_callback(chars)
 
+    sem = create_sem()
     res_base_url_obj = URL(res_base_url)
     checksum = await prepare_resources(
         chars,
         res_base_url_obj,
         target_path,
+        sem,
         finish_callback,
     )
     if original_manifest:
