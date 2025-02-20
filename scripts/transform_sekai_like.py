@@ -17,15 +17,14 @@ from nonebot_plugin_meme_stickers.consts import (
     RGBAColorTuple,
 )
 from nonebot_plugin_meme_stickers.sticker_pack.models import (
-    ChecksumDict,
     StickerGridSetting,
     StickerInfoOptionalParams,
     StickerPackConfig,
     StickerPackManifest,
     StickerParamsOptional,
 )
+from nonebot_plugin_meme_stickers.sticker_pack.update import collect_manifest_files
 from nonebot_plugin_meme_stickers.utils import (
-    calc_checksum,
     calc_checksum_from_file,
     dump_readable_model,
     op_retry,
@@ -68,7 +67,7 @@ Characters: TypeAlias = Union[list[SekaiCharacter], list[ArcaeaCharacter]]
 P = ParamSpec("P")
 R = TypeVar("R")
 
-ResDownloadFinishCallback: TypeAlias = Callable[[str, str], None]
+ResDownloadFinishCallback: TypeAlias = Callable[[str], None]
 """(path, sha256) -> None"""
 
 CharsGotCallback: TypeAlias = Callable[[Characters], None]
@@ -92,31 +91,28 @@ async def prepare_resources(
     download_path: Path,
     sem: asyncio.Semaphore,
     finish_callback: ResDownloadFinishCallback,
-) -> ChecksumDict:
+) -> list[str]:
     """return map of file path and sha256 hashes"""
 
     @with_semaphore(sem)
     @op_retry()
-    async def download_task(cli: AsyncClient, char: Character) -> tuple[str, str]:
+    async def download_task(cli: AsyncClient, char: Character) -> str:
         """return checksum"""
         url = res_base_url / char.img
         async with cli.stream("GET", str(url)) as resp:
             resp.raise_for_status()
             content = await resp.aread()
 
-        checksum = calc_checksum(content)
-
         relative_path = to_local_path(char)
         file_path = download_path / to_local_path(char)
         file_path.parent.mkdir(parents=True, exist_ok=True)
         file_path.write_bytes(content)
 
-        finish_callback(relative_path, checksum)
-        return relative_path, checksum
+        finish_callback(relative_path)
+        return relative_path
 
     async with AsyncClient() as cli:
-        result = await asyncio.gather(*(download_task(cli, c) for c in chars))
-    return dict(result)
+        return await asyncio.gather(*(download_task(cli, c) for c in chars))
 
 
 def web_hex_to_color_tuple(color: str) -> RGBAColorTuple:
@@ -228,17 +224,13 @@ async def transform_sekai_like(
 
     sem = create_sem()
     res_base_url_obj = URL(res_base_url)
-    checksum = await prepare_resources(
+    await prepare_resources(
         chars,
         res_base_url_obj,
         target_path,
         sem,
         finish_callback,
     )
-    if original_manifest:
-        for f in original_manifest.external_fonts:
-            checksum[f.path] = calc_checksum_from_file(target_path / f.path)
-    checksum = dict(sorted(checksum.items(), key=lambda x: x[0].split("/")))
 
     new_manifest = await transform_manifest(chars, original_manifest)
     manifest_path.write_text(
@@ -246,6 +238,11 @@ async def transform_sekai_like(
         "u8",
     )
 
+    checksum = {
+        x: calc_checksum_from_file(target_path / x)
+        for x in collect_manifest_files(new_manifest)
+    }
+    checksum = dict(sorted(checksum.items(), key=lambda x: x[0].split("/")))
     checksum_path = target_path / CHECKSUM_FILENAME
     checksum_path.write_text(
         json.dumps(checksum, ensure_ascii=False, indent=2),
@@ -304,7 +301,7 @@ async def _main() -> int:
                     progress.update(task_id, total=len(chars))
                     or progress.start_task(task_id)
                 ),
-                lambda path, _: progress.update(
+                lambda path: progress.update(
                     task_id,
                     description=f"{cfg.name}: {path}",
                     advance=1,
