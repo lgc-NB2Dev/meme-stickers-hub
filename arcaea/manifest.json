@@ -3,7 +3,7 @@
   "name": "Arcaea",
   "description": "Arcaea stickers",
   "default_config": {
-    "commands": ["arc"]
+    "commands": ["arcaea", "arc"]
   },
   "default_sticker_params": {
     "width": 296,
