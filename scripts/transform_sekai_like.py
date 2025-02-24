@@ -1,5 +1,4 @@
 import asyncio
-import json
 import math
 import sys
 import traceback
@@ -12,10 +11,10 @@ from cookit import with_semaphore
 from cookit.pyd import CamelAliasModel, type_validate_json
 from httpx import AsyncClient
 from nonebot_plugin_meme_stickers.consts import (
-    CHECKSUM_FILENAME,
     MANIFEST_FILENAME,
     RGBAColorTuple,
 )
+from nonebot_plugin_meme_stickers.scripts.gen_checksum import calc_n_write_checksum
 from nonebot_plugin_meme_stickers.sticker_pack.models import (
     StickerGridSetting,
     StickerInfoOptionalParams,
@@ -23,9 +22,7 @@ from nonebot_plugin_meme_stickers.sticker_pack.models import (
     StickerPackManifest,
     StickerParamsOptional,
 )
-from nonebot_plugin_meme_stickers.sticker_pack.update import collect_manifest_files
 from nonebot_plugin_meme_stickers.utils import (
-    calc_checksum_from_file,
     dump_readable_model,
     op_retry,
 )
@@ -238,16 +235,7 @@ async def transform_sekai_like(
         "u8",
     )
 
-    checksum = {
-        x: calc_checksum_from_file(target_path / x)
-        for x in collect_manifest_files(new_manifest)
-    }
-    checksum = dict(sorted(checksum.items(), key=lambda x: x[0].split("/")))
-    checksum_path = target_path / CHECKSUM_FILENAME
-    checksum_path.write_text(
-        json.dumps(checksum, ensure_ascii=False, indent=2),
-        "u8",
-    )
+    calc_n_write_checksum(target_path, new_manifest)
 
 
 @dataclass
