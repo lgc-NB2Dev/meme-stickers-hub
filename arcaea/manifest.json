@@ -23,7 +23,7 @@
   "sample_sticker": "Lagrange",
   "external_fonts": [
     {
-      "path": "_external_fonts/YurukaFangTang.ttf"
+      "path": "../_shared/YurukaFangTang.ttf"
     }
   ],
   "stickers": [

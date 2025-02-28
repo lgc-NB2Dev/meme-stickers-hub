@@ -1,4 +1,5 @@
 {
+  "../_shared/YurukaFangTang.ttf": "433002bcfede16330146912e43eef4696bfda71b9d29f9cd2297bfea5e04b212",
   "Aichan/aichan.png": "37dd58b992c546922dc0130e5b82b9d71704e2fd1ed5537744774c9678a211aa",
   "Ayu/ayu.png": "51d8452d3f0944881c383a6773b806e1e084dea15ca81277b8928f13b28bd0e2",
   "Eto/eto.png": "5502fdeb7a5c19125cf6424091ea9d0edd22c60ec291770d4b83aa63f86bf0ba",
@@ -20,6 +21,5 @@
   "Tairitsu/tairitsu2.png": "f3aecdd722b4b505c4cbece03df96a5a28a463afb26bf1bfc5f7b14655aff331",
   "Tairitsu/tairitsu3.png": "b18364832313647c8f039c03140dd421ec8de313868c5db1ea9f3de7d698c6e3",
   "Vita/vita.png": "53a9a5cb4b5f81470c0464bd9aeb288a9be4b3c027677587bee97256807def01",
-  "_external_fonts/YurukaFangTang.ttf": "433002bcfede16330146912e43eef4696bfda71b9d29f9cd2297bfea5e04b212",
   "pack_bg.webp": "fce44d628f60ad65f7e300440c9620bdfc3fe9c6a647065f772b7938f599618a"
 }
